@@ -1,0 +1,28 @@
+DRAINAGE INSPECTION GUIDANCE
+
+Purpose:
+This knowledge base provides general guidance for drainage
+inspection and maintenance decision support.
+
+VISIBLE DEBRIS:
+Visible leaves, plastic, mud or other debris around drainage
+inlets should be physically inspected and cleared according
+to local maintenance procedures.
+
+STANDING WATER:
+Standing water around a drainage inlet can indicate a need
+for field verification of inlet clearance and downstream flow.
+
+HEAVY RAINFALL:
+During heavy rainfall, drainage assets in locations with
+historical waterlogging may require increased inspection
+attention.
+
+HUMAN VERIFICATION:
+AI-generated observations are indicators only. Physical
+inspection should be performed before maintenance decisions.
+
+LIMITATIONS:
+Image-based screening cannot confirm underground blockage,
+subsurface conditions, pipe integrity or future flood
+occurrence.
